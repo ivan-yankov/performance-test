@@ -1,2 +1,1 @@
-../sbt-version-support/build
 sbt clean compile test package publishLocal
